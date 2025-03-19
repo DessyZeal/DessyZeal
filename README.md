@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DessyZeal
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning frontend web dev
+- 👀 I’m a web developer
+- 🌱 I’m currently building towards frontend web dev
 - 💞️ I’m looking forward to collaborating with other developers
 - 📫 You can reach me via email udesire20@gmail.com
 
