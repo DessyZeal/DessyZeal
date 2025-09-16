@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DessyZeal
+- 👋 Hi, I’m @DevDee
 - 👀 I’m a web developer
 - 🌱 I’m currently building towards frontend web dev
 - 💞️ I’m looking forward to collaborating with other developers
