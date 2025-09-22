@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevDee
-- 👀 I’m a web developer
+- 👀 I’m passionate about innovation 
 - 🌱 I’m currently building towards a career in software engineering
 - 💞️ I’m looking forward to collaborating with other developers
 - 📫 You can reach me via email udesire20@gmail.com
